@@ -1,0 +1,1 @@
+# simple_blind_auction_project
